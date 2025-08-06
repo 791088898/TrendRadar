@@ -1,6 +1,3 @@
-胖东来
-于东来
-
 DeepSeek
 梁文锋
 
@@ -106,3 +103,23 @@ ai
 火星
 宇宙
 飞船
+
+
+java
+springboot
+Spring Boot
+mybatis-plus
+jvm
+jdk
+Git
+Docker
+Vue.js
+MySQL
+PostgreSQL
+Oracle
+Redis
+MongoDB
+Kafka
+RabbitMQ
+Hadoop
+Spark
